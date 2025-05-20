@@ -1,0 +1,8 @@
+val1 = input("Enter val1: ")
+int_val1 = int(val1)
+val2 = input("Enter val2: ")
+int_val2 = int(val2)
+print("Addition : ",int_val1+int_val2)
+print("Subtraction : ",int_val1-int_val2)
+print("Multiplication : ",int_val1*int_val2)
+print("Division : ",int_val1/int_val2)
